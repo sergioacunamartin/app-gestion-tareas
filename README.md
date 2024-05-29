@@ -1,7 +1,7 @@
 <h1>App Tareas</h1>
 
 <p>Está app es una especie de agenda personal donde pondremos insertar, editar, borrar, finalizar o reabrir tareas.</p>
-
+<a href="https://github.com/sergioacunamartin/app-tareas" title="Ver Proyecto App Tareas"><img src="https://github.com/sergioacunamartin/app-tareas/blob/main/cabecera-app-tareas.jpg" alt="Imagen Cabecera App Tareas" /></a>
 <h2>Tabla de Contenidos</h2>
 <ul>
     <li><a href="#instalacion">Instalación</a></li>
