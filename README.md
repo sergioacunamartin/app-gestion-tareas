@@ -2,12 +2,12 @@
 
 <p>Está app es una especie de agenda personal donde pondremos insertar, editar, borrar, finalizar o reabrir tareas.</p>
 <a href="https://github.com/sergioacunamartin/app-tareas" title="Ver Proyecto App Tareas"><img src="https://github.com/sergioacunamartin/app-tareas/blob/main/cabecera-app-tareas.jpg" alt="Imagen Cabecera App Tareas" /></a>
-<h2>Tabla de Contenidos</h2>
+<h2>Stack Tecnológico</h2>
 <ul>
-    <li><a href="#instalacion">Instalación</a></li>
-    <li><a href="#uso">Uso</a></li>
-    <li><a href="#contribucion">Contribución</a></li>
-    <li><a href="#licencia">Licencia</a></li>
+    <li><strong>Lenguajes de Programación:</strong> Python</li>
+    <li><strong>Framework:</strong> Flask</li>
+    <li><strong>Front End:</strong> Html 5 y Css 3</li>
+    <li><strong>Base de Datos:</strong> Html 5 y Css 3</li>
 </ul>
 
 <h2 id="instalacion">Instalación</h2>
