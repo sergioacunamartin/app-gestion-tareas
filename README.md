@@ -8,7 +8,7 @@
     <li><strong>Framework:</strong> Flask</li>
     <li><strong>Front End:</strong> Html5 y Css3</li>
     <li><strong>Base de Datos:</strong> SQLite</li>
-    <li><strong>Herramientas de Desarrollo: PyCharm y DB Browser</strong> SQLite</li>
+    <li><strong>Herramientas de Desarrollo:</strong> PyCharm y DB Browser</li>
 </ul>
 
 <h2 id="instalacion">Instalación</h2>
