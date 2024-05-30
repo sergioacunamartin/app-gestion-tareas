@@ -1,7 +1,7 @@
 <h1>App de Gestión de Tareas</h1>
 
 <p>Está app es una especie de agenda personal donde pondremos insertar, editar, borrar, finalizar o reabrir tareas.</p>
-<a href="https://github.com/sergioacunamartin/app-tareas" title="Ver Proyecto App Tareas"><img src="https://github.com/sergioacunamartin/app-tareas/blob/main/cabecera-app-tareas.jpg" alt="Imagen Cabecera App Tareas" /></a>
+<a href="https://github.com/sergioacunamartin/app-tareas" title="Ver Proyecto App Tareas"><img src="https://github.com/sergioacunamartin/app-gestion-tareas/blob/main/cabecera-app-tareas.jpg" alt="Imagen Cabecera App Tareas" /></a>
 <h2>Stack Tecnológico</h2>
 <ul>
     <li><strong>Lenguajes de Programación:</strong> Python.</li>
@@ -23,9 +23,9 @@
 </ol>
 
 <h3>PyCharm</h3>
-<p>Descarga el manual de instalación en pdf <a href="https://github.com/sergioacunamartin/app-tareas/blob/main/instalacion-pycharm.pdf" title="Descargar Manual de Instalación PyCharm">aquí</a>.</p>
+<p>Descarga el manual de instalación en pdf <a href="https://github.com/sergioacunamartin/app-gestion-tareas/blob/main/instalacion-pycharm.pdf" title="Descargar Manual de Instalación PyCharm">aquí</a>.</p>
 
 <h2>Manual</h2>
-<p>Descarga el manual de uso en pdf <a href="https://github.com/sergioacunamartin/app-tareas/blob/main/manual-app-tareas.pdf" title="Descargar Manual de Uso">aquí</a>.</p>
+<p>Descarga el manual de uso en pdf <a href="https://github.com/sergioacunamartin/app-gestion-tareas/blob/main/manual-app-tareas.pdf" title="Descargar Manual de Uso">aquí</a>.</p>
 
 <p>Gracias!. Un saludo.</p>
