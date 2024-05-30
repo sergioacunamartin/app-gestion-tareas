@@ -23,6 +23,6 @@
 </ol>
 
 <h3>PyCharm</h3>
-Descarga el manual en pdf aqui.
+<p>Descarga el manual en pdf aqui.</p>
 
-Gracias!. Un saludo.
+<p>Gracias!. Un saludo.</p>
