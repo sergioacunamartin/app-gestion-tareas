@@ -11,7 +11,7 @@
     <li><strong>Herramientas de Desarrollo:</strong> PyCharm y DB Browser</li>
 </ul>
 
-<h2 id="instalacion">Instalación</h2>
+<h2>Instalación</h2>
 <h3>Línea de Comandos</h3>
 <ol>
     <li>Abre una terminal o una línea de comandos.</li>
@@ -23,6 +23,9 @@
 </ol>
 
 <h3>PyCharm</h3>
-<p>Descarga el manual en pdf aqui.</p>
+<p>Descarga el manual de instalación en pdf <a href="https://github.com/sergioacunamartin/app-tareas/blob/main/instalar-app-tareas.pdf" title="Descargar Manual de Instalación PyCharm">aquí</a>.</p>
+
+<h2>Manual</h2>
+<p>Descarga el manual de uso en pdf <a href="https://github.com/sergioacunamartin/app-tareas/blob/main/instalar-app-tareas.pdf" title="Descargar Nanual de Instalación PyCharm">aquí</a>.</p>
 
 <p>Gracias!. Un saludo.</p>
