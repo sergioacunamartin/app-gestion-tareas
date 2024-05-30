@@ -1,4 +1,4 @@
-<h1>App Tareas de Gestión de Tareas</h1>
+<h1>App de Gestión de Tareas</h1>
 
 <p>Está app es una especie de agenda personal donde pondremos insertar, editar, borrar, finalizar o reabrir tareas.</p>
 <a href="https://github.com/sergioacunamartin/app-tareas" title="Ver Proyecto App Tareas"><img src="https://github.com/sergioacunamartin/app-tareas/blob/main/cabecera-app-tareas.jpg" alt="Imagen Cabecera App Tareas" /></a>
@@ -12,11 +12,17 @@
 </ul>
 
 <h2 id="instalacion">Instalación</h2>
-<p>Instrucciones para instalar el proyecto. Por ejemplo:</p>
-<pre>
-<code>
-git clone https://github.com/tu-usuario/tu-proyecto.git
-cd tu-proyecto
-npm install
-</code>
-</pre>
+<h3>Línea de Comandos</h3>
+<ol>
+    <li>Abre una terminal o una línea de comandos.</li>
+    <li>Posiciónate en la carpeta donde estén los archivos del proyecto.</li>
+    <li>Ejecuta el comando "virtualenv venv" para crear el entorno virtual. Automáticamente se creará una carpeta venv dentro del proyecto.</li>
+    <li>Activa el entorno virtual con el comando venv\Scripts\activate (Windows), y con source venv/bin/activate (macOS y linux)</li>
+    <li>Instalación de requerimientos con el comando: pip install -r requirements.txt.</li>
+    <li>Ejecutar main.py</li>
+</ol>
+
+<h3>PyCharm</h3>
+Descarga el manual en pdf aqui.
+
+Gracias!. Un saludo.
