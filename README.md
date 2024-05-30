@@ -23,7 +23,7 @@
 </ol>
 
 <h3>PyCharm</h3>
-<p>Descarga el manual de instalación en pdf <a href="https://github.com/sergioacunamartin/app-tareas/blob/main/instalar-app-tareas.pdf" title="Descargar Manual de Instalación PyCharm">aquí</a>.</p>
+<p>Descarga el manual de instalación en pdf <a href="https://github.com/sergioacunamartin/app-tareas/blob/main/instalacion-pycharm.pdf" title="Descargar Manual de Instalación PyCharm">aquí</a>.</p>
 
 <h2>Manual</h2>
 <p>Descarga el manual de uso en pdf <a href="https://github.com/sergioacunamartin/app-tareas/blob/main/manual-app-tareas.pdf" title="Descargar Manual de Uso">aquí</a>.</p>
